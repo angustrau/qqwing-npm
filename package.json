@@ -1,0 +1,20 @@
+{
+  "name": "qqwing",
+  "version": "1.3.4",
+  "description": "QQwing is software for generating and solving Sudoku puzzles.",
+  "main": "qqwing-1.3.4.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angustrau/qqwing-npm.git"
+  },
+  "keywords": [
+    "qqwing",
+    "sudoku"
+  ],
+  "author": "Stephen Ostermiller",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/angustrau/qqwing-npm/issues"
+  },
+  "homepage": "http://qqwing.com"
+}
